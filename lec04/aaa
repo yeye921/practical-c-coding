@@ -1,0 +1,11 @@
+total 56
+-rw-r--r-- 1 pcc007 pcc    0  1월 28 09:23 aaa
+-rwxr-xr-x 1 pcc007 pcc 8536  1월 10 13:50 a.out
+-rwxr-xr-x 1 pcc007 pcc 8536  1월 10 16:39 bin
+-rw-r--r-- 1 pcc007 pcc  613  1월 11 14:04 binary.c
+-rwxr-xr-x 1 pcc007 pcc 8496  1월 10 14:19 b.out
+-rw-r--r-- 1 pcc007 pcc  259  1월 10 14:19 hello2.c
+-rw-r--r-- 1 pcc007 pcc  163  1월 10 13:49 hello.c
+-rw-r--r-- 1 pcc007 pcc   34  1월 10 14:08 out.txt
+prw-r--r-- 1 pcc007 pcc    0  1월 10 14:28 pipe
+-rw-r--r-- 1 pcc007 pcc  170  1월 10 14:17 report04.md
